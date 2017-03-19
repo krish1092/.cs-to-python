@@ -16,9 +16,9 @@ namespace ConsoleApplication1
             string PythonExecutable = @"C:\Python\python.exe";
 
             //Location of Python File
-            string PythonFileToCall = "C:\\Sample\\Sample.py";
+            string PythonFileToCall = "C:\\Sample\\RAS.py";
             
-            //Arguments to be passed
+            //Arguments to be passed to the python script
             int x = 20 , y = 3;
 
 
